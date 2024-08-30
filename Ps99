@@ -10,7 +10,7 @@ LoadingText3 = "Getting Script"
 LoadingText4 = "Executing Script"
 LoadingText5 = "Error: Execution Failed, re-trying!"
 
-local ScriptTitle = "Toilet Tower Defense: Script Loading"
+local ScriptTitle = "ps99 script:Script loading"
 
 if LoadingScreen ~= false then
     local Loading = Instance.new("ScreenGui")
